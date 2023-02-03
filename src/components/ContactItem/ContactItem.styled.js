@@ -19,7 +19,7 @@ export const ContactItem = styled.li`
 export const ContactName = styled.p`
   font-size: 20px;
   margin-bottom: 5px;
-  color: #004d00;
+  color: #0228e6;
 `;
 
 export const ContactNumber = styled.p`

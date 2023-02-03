@@ -4,7 +4,7 @@ export const Title = styled.h1`
   font-size: 48px;
   margin-bottom: 35px;
   text-align: center;
-  color: #004d00;
+  color: #c7a708;
 `;
 
 export const Subtitle = styled.h2`
